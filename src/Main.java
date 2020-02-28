@@ -10,6 +10,6 @@ public class Main {
             vetor[i] = numero;
 
         }
-
+        return n;
     }
 }

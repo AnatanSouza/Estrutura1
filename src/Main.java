@@ -5,6 +5,7 @@ public class Main {
         int[] vetor = new int[100];
         int numero;
 
+        //
         for (int i = 0; i< 100; i++){
             numero = i;
             vetor[i] = numero;
